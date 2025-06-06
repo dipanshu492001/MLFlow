@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/127602990563814338/e8a59eecd3cd40758db618d28577f72e/artifacts
+end_time: 1748607237710
+entry_point_name: ''
+experiment_id: '127602990563814338'
+lifecycle_stage: active
+run_id: e8a59eecd3cd40758db618d28577f72e
+run_name: monumental-fox-494
+run_uuid: e8a59eecd3cd40758db618d28577f72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748607229360
+status: 3
+tags: []
+user_id: Dipanshu Rautela

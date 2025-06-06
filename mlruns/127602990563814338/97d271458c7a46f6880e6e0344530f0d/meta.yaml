@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/127602990563814338/97d271458c7a46f6880e6e0344530f0d/artifacts
+end_time: 1748933234003
+entry_point_name: ''
+experiment_id: '127602990563814338'
+lifecycle_stage: active
+run_id: 97d271458c7a46f6880e6e0344530f0d
+run_name: dashing-dove-164
+run_uuid: 97d271458c7a46f6880e6e0344530f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748933228877
+status: 3
+tags: []
+user_id: Dipanshu Rautela

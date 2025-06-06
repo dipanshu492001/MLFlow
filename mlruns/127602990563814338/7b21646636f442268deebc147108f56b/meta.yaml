@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/127602990563814338/7b21646636f442268deebc147108f56b/artifacts
+end_time: 1748932156445
+entry_point_name: ''
+experiment_id: '127602990563814338'
+lifecycle_stage: active
+run_id: 7b21646636f442268deebc147108f56b
+run_name: salty-wasp-141
+run_uuid: 7b21646636f442268deebc147108f56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748932147445
+status: 3
+tags: []
+user_id: Dipanshu Rautela

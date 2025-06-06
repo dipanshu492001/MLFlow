@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/127602990563814338/09c00e614c21429faaf2dfe877f97582/artifacts
+end_time: 1748933505895
+entry_point_name: ''
+experiment_id: '127602990563814338'
+lifecycle_stage: active
+run_id: 09c00e614c21429faaf2dfe877f97582
+run_name: skillful-snake-472
+run_uuid: 09c00e614c21429faaf2dfe877f97582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748933501242
+status: 3
+tags: []
+user_id: Dipanshu Rautela
