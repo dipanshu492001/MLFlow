@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dipanshu%20Rautela/Downloads/MLOps/MLFlow/mlruns/236028891311061000/79a10ce3e116499a88e87b7b0ffd5d72/artifacts
+end_time: 1749192220626
+entry_point_name: ''
+experiment_id: '236028891311061000'
+lifecycle_stage: active
+run_id: 79a10ce3e116499a88e87b7b0ffd5d72
+run_name: placid-lark-134
+run_uuid: 79a10ce3e116499a88e87b7b0ffd5d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749192199079
+status: 3
+tags: []
+user_id: Dipanshu Rautela

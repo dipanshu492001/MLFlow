@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dipanshu%20Rautela/Downloads/MLOps/MLFlow/mlruns/236028891311061000/a5a7b1115a674f79982fb36c13d8f2df/artifacts
+end_time: 1749192207595
+entry_point_name: ''
+experiment_id: '236028891311061000'
+lifecycle_stage: active
+run_id: a5a7b1115a674f79982fb36c13d8f2df
+run_name: intrigued-horse-53
+run_uuid: a5a7b1115a674f79982fb36c13d8f2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749192207465
+status: 3
+tags: []
+user_id: Dipanshu Rautela

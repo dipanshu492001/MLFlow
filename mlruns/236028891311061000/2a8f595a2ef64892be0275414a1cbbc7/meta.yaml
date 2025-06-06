@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dipanshu%20Rautela/Downloads/MLOps/MLFlow/mlruns/236028891311061000/2a8f595a2ef64892be0275414a1cbbc7/artifacts
+end_time: 1749192207317
+entry_point_name: ''
+experiment_id: '236028891311061000'
+lifecycle_stage: active
+run_id: 2a8f595a2ef64892be0275414a1cbbc7
+run_name: powerful-pug-836
+run_uuid: 2a8f595a2ef64892be0275414a1cbbc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749192207191
+status: 3
+tags: []
+user_id: Dipanshu Rautela

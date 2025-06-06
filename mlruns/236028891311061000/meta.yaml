@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Dipanshu%20Rautela/Downloads/MLOps/MLFlow/mlruns/236028891311061000
+creation_time: 1749192198528
+experiment_id: '236028891311061000'
+last_update_time: 1749192198528
+lifecycle_stage: active
+name: breast-cancer-rf-hp

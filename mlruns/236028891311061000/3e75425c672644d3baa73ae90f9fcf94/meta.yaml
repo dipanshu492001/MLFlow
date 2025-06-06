@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dipanshu%20Rautela/Downloads/MLOps/MLFlow/mlruns/236028891311061000/3e75425c672644d3baa73ae90f9fcf94/artifacts
+end_time: 1749192208876
+entry_point_name: ''
+experiment_id: '236028891311061000'
+lifecycle_stage: active
+run_id: 3e75425c672644d3baa73ae90f9fcf94
+run_name: classy-rat-588
+run_uuid: 3e75425c672644d3baa73ae90f9fcf94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749192208675
+status: 3
+tags: []
+user_id: Dipanshu Rautela

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Dipanshu%20Rautela/Downloads/MLOps/MLFlow/mlruns/236028891311061000/02f0d155a5f944009312a7466732c420/artifacts
+end_time: 1749192207177
+entry_point_name: ''
+experiment_id: '236028891311061000'
+lifecycle_stage: active
+run_id: 02f0d155a5f944009312a7466732c420
+run_name: abrasive-dolphin-228
+run_uuid: 02f0d155a5f944009312a7466732c420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749192206973
+status: 3
+tags: []
+user_id: Dipanshu Rautela
